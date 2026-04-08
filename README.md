@@ -36,7 +36,7 @@ See the [main repo](https://github.com/jame581/GodotPrompter) for Codex and Open
 
 ## What's Included
 
-**29 skills** for Godot 4.3+ (GDScript + C#) covering project setup, architecture, gameplay systems, UI, multiplayer, optimization, and C# patterns.
+**41 skills** for Godot 4.3+ (GDScript + C#) covering project setup, architecture, gameplay systems, input handling, animation, audio, shaders, particles, physics, 2D/3D rendering, UI, multiplayer, optimization, and C# patterns.
 
 **3 agents:** godot-game-architect, godot-game-dev, godot-code-reviewer
 
