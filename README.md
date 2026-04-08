@@ -21,7 +21,7 @@ copilot plugin install godot-prompter@godot-prompter-marketplace
 ### Gemini CLI
 
 ```bash
-gemini extensions install jame581/godot-prompter-marketplace
+gemini extensions install https://github.com/jame581/GodotPrompter
 ```
 
 ### Cursor
