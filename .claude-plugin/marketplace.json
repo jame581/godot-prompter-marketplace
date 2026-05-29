@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "godot-prompter",
-      "description": "Agentic skills framework for Godot 4.x game development — 45 domain-specific skills for GDScript and C#",
+      "description": "Agentic skills framework for Godot 4.x game development — 48 domain-specific skills for GDScript and C#",
       "version": "1.9.0",
       "source": {
         "source": "url",
