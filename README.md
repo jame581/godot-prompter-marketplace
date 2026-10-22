@@ -38,7 +38,7 @@ See the [main repo](https://github.com/jame581/GodotPrompter#quick-start) for Co
 
 ## What's Included
 
-**<!-- godot-prompter-skills -->56<!-- /godot-prompter-skills --> skills** for Godot 4.3+ (GDScript + C#) covering project setup, architecture, gameplay systems, input handling, animation, audio, shaders, particles, physics, 2D/3D rendering, UI, multiplayer, localization, procedural generation, XR, GDExtension, mobile shipping, optimization, C# patterns, a teaching mode, and popular third-party addons.
+**<!-- godot-prompter-skills -->59<!-- /godot-prompter-skills --> skills** for Godot 4.3+ (GDScript + C#) covering project setup, architecture, gameplay systems, input handling, animation, audio, shaders, particles, physics, 2D/3D rendering, UI, multiplayer, localization, procedural generation, XR, GDExtension, mobile shipping, optimization, C# patterns, a teaching mode, and popular third-party addons.
 
 **<!-- godot-prompter-agents -->9<!-- /godot-prompter-agents --> agents:** godot-game-architect, godot-game-dev, godot-code-reviewer, godot-csharp-engineer, godot-performance-profiler, godot-shader-author, godot-ui-designer, godot-animator, godot-tools-engineer
 
